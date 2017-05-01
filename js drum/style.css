@@ -1,4 +1,5 @@
 html {
+  margin: 0;
   font-size: 10px;
   background: url(images/music.jpeg) bottom center;
   background-size: cover;
